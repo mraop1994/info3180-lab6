@@ -1,0 +1,57 @@
+.w3-margin {
+    margin:16px;
+    padding:10px;
+    background-color:blue
+}
+
+.w3-container {
+    padding:0.01em 16px
+}
+
+.w3-light-grey {
+    color:#000;
+    background-color:#f1f1f1
+}
+
+.w3-padding-16 {
+    padding-top:16px;
+    padding-bottom:16px
+}
+
+.w3-ul li:nth-child(odd){
+	border: 0;
+	background-color: orange;
+}
+
+.w3-ul li:nth-child(even){
+	border: 0;
+	background-color: yellow;
+}
+
+.w3-padding-16 {
+    padding-top:16px;
+    padding-bottom:16px
+}
+
+.w3-right {
+    float:right
+}
+
+.w3-margin-right {
+    margin-right:16px
+}
+
+ul.w3-ul {
+    list-style-type:none;
+    padding:0;
+    margin:0
+}
+
+w3-ul li {
+    padding:6px 2px 6px 16px;
+    border-bottom:1px solid #ddd
+}
+
+.w3-padding {
+    padding:5px
+}
